@@ -6,12 +6,6 @@ This project demonstrates a clean, responsive weather interface built using HTML
 
 ---
 
-📷 App Preview
-
-![Weather App Screenshot](insert-your-ai-generated-weather-image-link-here)
-
----
-
 🚀 Features
 
 - Search current weather by city name
@@ -27,3 +21,9 @@ This project demonstrates a clean, responsive weather interface built using HTML
 - CSS3
 - JavaScript 
 - Weather API (OpenWeatherMap)
+
+---
+
+📄 License
+
+This project is released under the MIT License.
