@@ -1,7 +1,6 @@
 
 # 🌦️ Weather App
-
-Welcome to the ** Weather App! **  
+ 
 This project demonstrates a clean, responsive weather interface built using HTML, CSS and JavaScript. Instantly get current weather updates for any city using live data!
 
 ---
