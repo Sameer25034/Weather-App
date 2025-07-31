@@ -1,12 +1,12 @@
 
-🌦️ Weather App
+# 🌦️ Weather App
 
 Welcome to the ** Weather App!**  
 This project demonstrates a clean, responsive weather interface built using HTML, CSS and JavaScript. Instantly get current weather updates for any city using live data!
 
 ---
 
-🚀 Features
+## 🚀 Features
 
 - Search current weather by city name
 - Live temperature, humidity, weather condition, wind speed and more
@@ -24,6 +24,6 @@ This project demonstrates a clean, responsive weather interface built using HTML
 
 ---
 
-📄 License
+## 📄 License
 
 This project is released under the MIT License.
